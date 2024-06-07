@@ -30,7 +30,7 @@ function draw() {
 
 function mostraraq(){rect(raqx, raqy, raql, raqh) }
 
-A função keyPressed, em uma tradução literal do inglês, significa “tecla pressionada”. Já a função keyIsDown, em mais uma tradução literal, significa “tecla abaixada”. Ambas são bem semelhantes, mas possuem uma diferença importante no funcionamento do jogo.
+/*A função keyPressed, em uma tradução literal do inglês, significa “tecla pressionada”. Já a função keyIsDown, em mais uma tradução literal, significa “tecla abaixada”. Ambas são bem semelhantes, mas possuem uma diferença importante no funcionamento do jogo.
 keyPressed identifica quando uma tecla é pressionada, ou seja, quando o dedo encostar na tecla. J
 
 keyIsDown identifica quando uma tecla é “solta” – é o movimento entre a tecla ser pressiona-
